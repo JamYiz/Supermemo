@@ -1,0 +1,921 @@
+SuperMemo Report
+   Activity: Checking the integrity of the collection
+   Collection: e:\onedrive\4-个人资料\abc of supermemo 18 (copy) (copy) (copy)
+   Date: Friday, August 20, 2021, 11:08:41 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Checking 229 element records (ElementInfo.dat)
+Verifying integrity of element data (229 elements in ElementInfo.dat)
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #2   ++++++++++++++++++++++
+   Deleted concept group #3 at Topic #2: 你可以在其摘抄后立即开始处理你的摘抄卡片，或者等到 SuperMemo 向你展示它们。同样，你的决定。就我个人而言，如果我知道如何将一个特定的摘抄卡片（句子）变成一个项目，我会立即这样做；对于整个段落的摘抄卡片，我通常会等到 SuperMemo 向我展示它们。
+++++++++++++++++++++++    ERROR #3   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #4   ++++++++++++++++++++++
+   Deleted concept group #3 at Topic #3: 在将摘抄卡片转换成问答的同时，你应该确保你的问题简单明了。
+++++++++++++++++++++++    ERROR #5   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #6   ++++++++++++++++++++++
+   Deleted concept group #3 at Topic #6: 【翻译】示范：我的渐进阅读工作流程 : 处理
+++++++++++++++++++++++    ERROR #7   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #8   ++++++++++++++++++++++
+   Deleted concept group #3 at Topic #7: 学习整体的大局越简单越好。简单的模型更容易理解和吸收。你以后总可以在它们的基础上继续发展。
+++++++++++++++++++++++    ERROR #9   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #10   ++++++++++++++++++++++
+   Deleted concept group #3 at Item #19: Title: 【翻译】示范：我的渐进阅读工作流程 : 处理 第 1 次处理（摘抄重要片段）  第 2 次处理 (可选：根据上下文修改，改变措辞等)  第 3 次处理（将重要的部分转化为[.]）。
+++++++++++++++++++++++    ERROR #11   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=7
+   Highest position=2
+++++++++++++++++++++++    ERROR #12   ++++++++++++++++++++++
+   Deleted concept member at Concept #23
+++++++++++++++++++++++    ERROR #13   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=4
+   Highest position=2
+++++++++++++++++++++++    ERROR #14   ++++++++++++++++++++++
+   Deleted concept group #4 at Concept #23: 第一章马克思主义是关于无产阶级和人类解放的科学
+++++++++++++++++++++++    ERROR #15   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #16   ++++++++++++++++++++++
+   Deleted concept group #3 at Item #25: 在阅读环节结束后，记得用 [.] 设置阅读点。下次看到同一篇文章时，SuperMemo 会显示最后的阅读点。
+++++++++++++++++++++++    ERROR #17   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #18   ++++++++++++++++++++++
+   Deleted concept group #3 at Topic #30: 对于经过处理的摘抄卡片，都必须通过 Ctrl+D 来忽略该摘抄卡片。忽略意味着 SuperMemo 将不会再向你展示该摘抄卡片。
+++++++++++++++++++++++    ERROR #19   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #20   ++++++++++++++++++++++
+   Deleted concept member at Concept #31
+++++++++++++++++++++++    ERROR #21   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #22   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #32: 第五、填空题简单而有效  填空题是以省略号替换了部分缺失内容的句子。填空练习就是运用填空题要求学生将缺失的部分填写完整的练习形式。比如：在解三角形中，[.] 问题多要使用余弦定理。(面积) .
+++++++++++++++++++++++    ERROR #23   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #24   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #38: 第十四、建立材料与个人的联系并给出例子  最有效的强化记忆的方式之一就是建立记忆内容与你个人生活的联系。在下面的例子中，与其试图描绘出一幅可以恰当地阐释该问题的画面，不如使用与你个人生活相关的线索，这样更能缩短记忆需要的时间。  较困难的卡片  ●问：What is the name of a soft bed without arms or .
+++++++++++++++++++++++    ERROR #25   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #26   ++++++++++++++++++++++
+   Deleted concept group #3 at Topic #41: SuperMemo 会给我看我从摘抄卡片中制作的填空 / 问答。我将对这些项目进行复习和评分。你可以重新制定措辞，删除它，把它做成更多的填空，随你喜欢。
+++++++++++++++++++++++    ERROR #27   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #28   ++++++++++++++++++++++
+   Deleted concept group #3 at Item #43: 由于是从文章的一段话中摘抄句子，上下文必然会丢失。必须添加足够的检索[.]以供复习。
+++++++++++++++++++++++    ERROR #29   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=4
+   Highest position=2
+++++++++++++++++++++++    ERROR #30   ++++++++++++++++++++++
+   Deleted concept member at Concept #47
+++++++++++++++++++++++    ERROR #31   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #32   ++++++++++++++++++++++
+   Deleted concept group #3 at Topic #52: 【翻译】示范：我的渐进阅读工作流程
+++++++++++++++++++++++    ERROR #33   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=4
+   Highest position=2
+++++++++++++++++++++++    ERROR #34   ++++++++++++++++++++++
+   Deleted concept group #4 at Topic #59: 对最难记忆的问答卡片使用记忆技术，节省将来的复习时间。磨刀不误砍柴工
+++++++++++++++++++++++    ERROR #35   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #36   ++++++++++++++++++++++
+   Deleted concept group #3 at Item #60: Title: 【翻译】示范：我的渐进阅读工作流程 : 处理 第 1 次处理（摘抄重要片段）  第 2 次处理 (可选：[.])  第 3 次处理（将重要的部分转化为问答 / 填空）。
+++++++++++++++++++++++    ERROR #37   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #38   ++++++++++++++++++++++
+   Deleted concept member at Concept #65
+++++++++++++++++++++++    ERROR #39   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #40   ++++++++++++++++++++++
+   Deleted concept group #3 at Topic #66: 文章→（可选：段落）→摘抄（句子）→缩短和修改的句子→填空 / 问答。
+++++++++++++++++++++++    ERROR #41   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #42   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #67: 第十六、上下文提示可以简化措辞  您可以在 SuperMemo 中使用牌组，或提供具有不同外观的不同知识分支（不同的模板），使用标签（#Title，#Author，#Date 等）并清楚地标签子类别（例如，使用 #chem 作为对 chemistry 的标记，#math 作为对 mathematics .
+++++++++++++++++++++++    ERROR #43   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #44   ++++++++++++++++++++++
+   Deleted concept group #3 at Topic #70: 在阅读环节结束后，记得用 Ctrl+F7 设置阅读点。下次看到同一篇文章时，SuperMemo 会显示最后的阅读点。
+++++++++++++++++++++++    ERROR #45   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #46   ++++++++++++++++++++++
+   Deleted concept group #3 at Topic #75: 学习整体的大局越简单越好。简单的模型更容易理解和吸收。你以后总可以在它们的基础上继续发展。 不要忽视基础知识。记忆看似明显的东西并不是浪费时间。
+++++++++++++++++++++++    ERROR #47   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #48   ++++++++++++++++++++++
+   Deleted concept group #3 at Topic #79: 由于是从文章的一段话中摘抄句子，上下文必然会丢失。必须提供足够的检索线索以供复习。
+++++++++++++++++++++++    ERROR #49   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #50   ++++++++++++++++++++++
+   Deleted concept group #3 at Topic #85: 摘抄整段的原因： 对目前的我来说，太难理解了  我想跳过这一段继续读，但我觉得其中有重要的内容
+++++++++++++++++++++++    ERROR #51   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #52   ++++++++++++++++++++++
+   Deleted concept group #3 at Topic #86: 你看所有的 T 都是黄色的，意思是所有的摘抄卡片都被忽略了。蓝色的 L 是指项目，我在记忆这些项目。
+++++++++++++++++++++++    ERROR #53   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #54   ++++++++++++++++++++++
+   Deleted concept group #3 at Topic #87: 然后再过一段时间，SuperMemo 会给我显示原文最后的阅读点。我该怎么办呢？继续阅读文章，摘抄我认为重要的部分。第 3 次处理基本上是重复和交替第 1 次和第 2 次处理。
+++++++++++++++++++++++    ERROR #55   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #56   ++++++++++++++++++++++
+   Deleted concept group #3 at Topic #88: 复习摘抄卡片属于被动复习。
+++++++++++++++++++++++    ERROR #57   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #58   ++++++++++++++++++++++
+   Deleted concept group #3 at Item #89: Title: 【翻译】示范：我的渐进阅读工作流程 : 处理 第 1 次处理（[.]）  第 2 次处理 (可选：根据上下文修改，改变措辞等)  第 3 次处理（将重要的部分转化为问答 / 填空）。
+++++++++++++++++++++++    ERROR #59   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #60   ++++++++++++++++++++++
+   Deleted concept group #3 at Item #90: 在阅读环节结束后，记得用 Ctrl+F7 设置[.]。下次看到同一篇文章时，SuperMemo 会显示最后的阅读点。
+++++++++++++++++++++++    ERROR #61   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #62   ++++++++++++++++++++++
+   Deleted concept group #3 at Item #91: 由于是从文章的一段话中摘抄句子，[.]必然会丢失。必须提供足够的检索线索以供复习。
+++++++++++++++++++++++    ERROR #63   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #64   ++++++++++++++++++++++
+   Deleted concept group #3 at Item #92: 复习摘抄卡片属于[.]复习。
+++++++++++++++++++++++    ERROR #65   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #66   ++++++++++++++++++++++
+   Deleted concept group #3 at Item #93: 复习[.]属于被动复习。
+++++++++++++++++++++++    ERROR #67   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #68   ++++++++++++++++++++++
+   Deleted concept group #6 at Topic #96: disposition n. 1.性格2 . 倾向 3 排列 4.处置
+++++++++++++++++++++++    ERROR #69   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #70   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #97: 第十一、与干扰做斗争  当你学习相同的内容时你经常会混淆他们。比如：你可能在区分单词 historic 和 historical 时碰到问题。这种情况在你记忆大量数字时会更加明显，例如：在生物实验的药剂配比。 如果对一项内容的知识使记住另一项内容更加困难了，那么我们称这种情况为记忆干扰。 .
+++++++++++++++++++++++    ERROR #71   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #72   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #98: 第十五、借助情绪状态  如果你能够用生动甚至令人震惊的例子来阐释你的卡片，你很可能会强化提取（retrieval，从记忆里回想起事实、概念、事件等信息的精神活动）（只要你不过度使用同一套工具乃至受到记忆干扰（interference 参考第 11 .
+++++++++++++++++++++++    ERROR #73   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=4
+   Highest position=2
+++++++++++++++++++++++    ERROR #74   ++++++++++++++++++++++
+   Deleted concept group #4 at Topic #99: SuperMemo 十诫
+++++++++++++++++++++++    ERROR #75   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #76   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #100: 有效的学习：处理知识的 20 条规则
+++++++++++++++++++++++    ERROR #77   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #78   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #101: 炙热沙城 2 Dust II 亚服英语报点
+++++++++++++++++++++++    ERROR #79   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #80   ++++++++++++++++++++++
+   Deleted concept group #6 at Topic #103: alternate adj. 交替的 v. 交替
+++++++++++++++++++++++    ERROR #81   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #82   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #104: 第一、如果我不理解这个材料，那我不如不学
+++++++++++++++++++++++    ERROR #83   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #84   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #105: 第二、先学再记
+++++++++++++++++++++++    ERROR #85   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #86   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #106: 第三、从基础开始
+++++++++++++++++++++++    ERROR #87   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #88   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #107: 第四、最小信息原则
+++++++++++++++++++++++    ERROR #89   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #90   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #108: 第六、使用图片  视觉皮层是大脑中用来处理视觉刺激的部分。该部分在进化过程中得以充分的发展，这也是为什么我们常常会说一图胜千言。事实上，如果你观察一幅图片中的细节以及记忆这些细节的容易程度，你会发现，我们的语言能力相较于视觉处理能力真是差太多了。对于记忆也是如此，用图片展示的信息通常不太容易忘记。 .
+++++++++++++++++++++++    ERROR #91   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #92   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #109: 第七、使用助记技巧  助记技巧是那些使我们更容易记忆的技巧。这些技巧往往有着令人惊讶的效果。对大部分学生来说，10 岁少年就能记住 50 张卡牌排序的景象让人几乎以为发现了少年天才。然而人们惊讶的发现，在一些训练后，掌握这样的技巧是如此的容易。这些技巧每个人都可以获得而不需要而外的能力。 .
+++++++++++++++++++++++    ERROR #93   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #94   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #110: 第八、使用图像填空  图象填空和文字填空一样，只不过是把缺失的文字替换成确实的图象而已。比如：在学习解剖学时，你可以展现一副复杂的图象，有一小部分缺失了。学生的任务是把缺失的部分说出来。同一副图象可以用来组织 10-20 个知识点，对于每个知识点可用图片中特定的部分来询问。图像填空对于学习地理非常有帮助。  下面是一个图像填空的例子： .
+++++++++++++++++++++++    ERROR #95   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #96   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #111: 第九、避免使用集合  集合就是一堆有特定性质的东西的组合 from wiki。比如：一个水果的集合就是由桃子、梨子、苹果组所组成的。一个典型的例子是，当要求列出一个集合的所有成员时，这样的内容是很难学习的。 .
+++++++++++++++++++++++    ERROR #97   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #98   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #112: 第十、避免使用枚举  枚举也是那种很难学习的经典类型，但是它依然比集合更容易让人接受。尽量避免使用枚举。如果你实在无法避免，那么使用填空题 (如果可能的话，使用重叠式填空)，学习字母表是使用重叠式填空的一个很好的例子。  不易学习的内容  ●问：请按顺序列出字母表  ●答：abcdefghijklmnopqrstuvwxyz  便于学习的内容 .
+++++++++++++++++++++++    ERROR #99   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #100   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #113: 第十二、优化措辞  问题的措辞必须优化，以确保在最短的时间内「点亮大脑中相应的那盏灯」，从而降低错误率，更加明确问题，缩短反应时间，并帮助进入专注的状态。  需要优化的部分：冗长的完形填空  ●问：[.]：不同物种之间、生物与无机环境之间在相互影响中不断进化和发展，这就是 [.]，它是生物多样性形成的原因。  ●答：共同进化 .
+++++++++++++++++++++++    ERROR #101   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #102   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #114: 第十三、与其它记忆产生联想  联想其他记忆可以将你的内容置于更好的情境，简化措辞，并且减少干扰。在下面的例子中，使用单词 humble 和 supplicant 可以帮助学生更加关注单词 shamelessly ，从而强化正确的词义。越专注越能消除干扰。其次，如此使用这两个单词也有可能避免 cringing .
+++++++++++++++++++++++    ERROR #103   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #104   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #115: 第十七、冗余但不违背最小信息原则  冗余简单来说就是信息多于需要的或重复信息等。冗余与最小信息原则不相互驳斥，甚至可能受您欢迎。对于这个简短的文本，冗余的问题太宽泛了。以下是一些示例，仅用于说明最小信息原则不能理解为牌组甚至卡片中的最小字符数或字数：  ●被动和主动的方法：如果您在学习外语，例如英语，你通常会建立单词对，如 手机 - phone， .
+++++++++++++++++++++++    ERROR #105   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #106   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #116: 第十八、提供信息来源  除了已充分验证的知识（比如 2+2=4），建议你加上收集的知识素材的来源出处。在现实场景中经常会遇到对信息可信度的挑战，那这时信息的来源出处就能帮上忙。信息来源渠道不同，事实和数据也会有差别；你可能会惊讶地发现，一家信誉良好的信息机构发布和其知名同行极其不同的数据。如果没有 .
+++++++++++++++++++++++    ERROR #107   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #108   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #117: 第十九、提供时间标记  有的知识体系如基础数学，解剖学，分类学和自然地理是相对稳定的；而经济指数，高新技术，个人数据等则信息则富于变化。所以提供时间戳标记或者表明信息过期程度的标签 .
+++++++++++++++++++++++    ERROR #109   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #110   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #118: 第二十、确定优先顺序  你将经常面临有知识太多没法完全掌握的问题。因此长远来说确定优先顺序对于建立有效知识十分关键。如何确定优先顺序将会影响到你的知识储备方式以及学习速度。许多阶段都会要确定优先顺序；极少数是和知识表述相关，但全部都很重要。 .
+++++++++++++++++++++++    ERROR #111   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #112   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #119: 新规则：渐进阅读  随着渐进阅读[2] 的出现，规则已经被修改，并重新确定了优先级。 渐进阅读[2] 中表述策略的改变： 建立理解可能是学习过程的一部分，在理解不充分的段落中挖空是可以接受的  学习和记忆可能同时进行  在学习过程的早期，项目可能很复杂。取决于知识优先级[5] 和可用的时间，它们会逐步简化[4]。 .
+++++++++++++++++++++++    ERROR #113   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #114   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #120: 元规则：学习的乐趣 一个简单而通用的试金石，就是学习的乐趣[7]。每当你看到乐趣下降时，再来看看这篇文章，看看能不能找到可能导致乐趣下降的违规行为。 元规则：适用性 我们应该力求知识的最大适用性。 人类的智慧是建立在知识的基础上的，其中抽象知识[8] 的作用尤为重要。抽象知识以规则为基础，如 .
+++++++++++++++++++++++    ERROR #115   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #116   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #121: 如果我不理解这个材料，那我不如不学
+++++++++++++++++++++++    ERROR #117   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #118   ++++++++++++++++++++++
+   Deleted concept member at Concept #134
+++++++++++++++++++++++    ERROR #119   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #120   ++++++++++++++++++++++
+   Deleted concept group #6 at Item #136: 利物浦六贤旗上有哪些人？  [.]、 派斯利、费根、达格利什、贝尼特斯、克洛普
+++++++++++++++++++++++    ERROR #121   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #122   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #138: 开始学习一个科目的知识前，我们就应该对所学的知识建立一个整体印象。只有把在材料上相互独立的知识构建为逻辑上相互联系的知识大厦，才能大幅度降低我们的学习时间。
+++++++++++++++++++++++    ERROR #123   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #124   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #139: 所以不要从零碎的材料中学习 (就比如我们经常做的高考模拟卷)！先阅读材料上可以把这些知识整合起来的章节 (比如：平抛运动)，然后才使用独立的问答来进行学习。（如：速度角和路程角的关系是什么？）
+++++++++++++++++++++++    ERROR #125   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=5
+   Highest position=2
+++++++++++++++++++++++    ERROR #126   ++++++++++++++++++++++
+   Deleted concept group #5 at Topic #140: 对于学习材料的整体印象的建立并不需要考虑到细枝末节处。恰恰相反，该印象越简单越好，我们的学习材料的基础章节也是越短越好。越是简单的知识模型越是容易被理解。日后我们可以在此基础上进一步构建。
+++++++++++++++++++++++    ERROR #127   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=4
+   Highest position=2
+++++++++++++++++++++++    ERROR #128   ++++++++++++++++++++++
+   Deleted concept group #4 at Topic #141: 确保你的问答卡片的表达尽可能简单，并询问所学知识的所有重要方面。小就是美
+++++++++++++++++++++++    ERROR #129   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #130   ++++++++++++++++++++++
+   Deleted concept group #6 at Topic #142: 如何用 Anki 学数学？
+++++++++++++++++++++++    ERROR #131   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=4
+   Highest position=2
+++++++++++++++++++++++    ERROR #132   ++++++++++++++++++++++
+   Deleted concept group #4 at Topic #144: 为了保险，你最好回答时严格点，同时在巩固练习中进一步强化不确定记住的内容。关于学习材料的选择，另一个普遍的原则是，你应该首先掌握所学学科最基本的方面，并在以后的阶段逐渐深入细节层次。
+++++++++++++++++++++++    ERROR #133   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=4
+   Highest position=2
+++++++++++++++++++++++    ERROR #134   ++++++++++++++++++++++
+   Deleted concept group #4 at Topic #145: 为了防止出现这种结果，您必须通过提出以下问题来不断控制学习过程：  ●这个问答卡片对我想学习的技能真的很重要吗？  ●回答问题的能力真的能确保我准确地记住我想记住的东西吗？  ●如果我在记忆一个给定的问答卡片时有障碍，它真的是以最简单和最单一的方式表达的吗？（见：在学习中处理知识的 20 条规则） .
+++++++++++++++++++++++    ERROR #135   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #136   ++++++++++++++++++++++
+   Deleted concept group #6 at Topic #146: amplify  verb. 放大，增强（声音等）
+++++++++++++++++++++++    ERROR #137   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #138   ++++++++++++++++++++++
+   Deleted concept group #6 at Item #147: amplify  verb. [.]（声音等）
+++++++++++++++++++++++    ERROR #139   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #140   ++++++++++++++++++++++
+   Deleted concept group #6 at Topic #148: exploit v.利用，开发
+++++++++++++++++++++++    ERROR #141   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #142   ++++++++++++++++++++++
+   Deleted concept group #6 at Topic #149: turbulent adj. 狂暴的、动乱的
+++++++++++++++++++++++    ERROR #143   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #144   ++++++++++++++++++++++
+   Deleted concept group #6 at Topic #150: poll  n. 投票、民意测验
+++++++++++++++++++++++    ERROR #145   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #146   ++++++++++++++++++++++
+   Deleted concept group #6 at Topic #151: Child: 2021:08:20 11:49:36: 英语
+++++++++++++++++++++++    ERROR #147   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #148   ++++++++++++++++++++++
+   Deleted concept group #6 at Topic #152: Child: 2021:08:20 11:49:36: 英语
+++++++++++++++++++++++    ERROR #149   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #150   ++++++++++++++++++++++
+   Deleted concept group #6 at Topic #153: Child: 2021:08:20 11:49:36: 英语
+++++++++++++++++++++++    ERROR #151   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #152   ++++++++++++++++++++++
+   Deleted concept group #6 at Item #154: 利物浦六贤旗上有哪些人？  香克利、 派斯利、费根、[.]、贝尼特斯、克洛普
+++++++++++++++++++++++    ERROR #153   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=4
+   Highest position=2
+++++++++++++++++++++++    ERROR #154   ++++++++++++++++++++++
+   Deleted concept group #4 at Topic #155: 有两个造成不合理行为的危险因素：  1 一开始你的速度会下降：在学习的头几个月里，由于复习量的堆积，学习的速度会大幅下降（这种下降在最初的几周内最为明显）  2 一段时间后，不合理的问答卡片才会出现：学习新材料要比把学到的知识留在记忆中容易得多。结构不好问答卡片通常在复习几次后才显示出其难处理性！（见：在学习中处理知识的 20 条规则）
+++++++++++++++++++++++    ERROR #155   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #156   ++++++++++++++++++++++
+   Deleted concept group #6 at Item #156: poll  n. [.]
+++++++++++++++++++++++    ERROR #157   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #158   ++++++++++++++++++++++
+   Deleted concept group #6 at Item #158: disposition  n. [.]
+++++++++++++++++++++++    ERROR #159   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #160   ++++++++++++++++++++++
+   Deleted concept group #6 at Item #159: alternate adj. [.] v. 交替
+++++++++++++++++++++++    ERROR #161   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #162   ++++++++++++++++++++++
+   Deleted concept group #6 at Item #160: alternate adj. 交替的 v. [.]
+++++++++++++++++++++++    ERROR #163   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #164   ++++++++++++++++++++++
+   Deleted concept group #6 at Item #161: exploit v.[.]
+++++++++++++++++++++++    ERROR #165   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #166   ++++++++++++++++++++++
+   Deleted concept group #6 at Item #162: turbulent adj. [.]
+++++++++++++++++++++++    ERROR #167   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #168   ++++++++++++++++++++++
+   Deleted concept group #6 at Topic #166: 利物浦六贤旗上有哪些人？ 第一个香克利：把利物浦从低谷带到冠军。利物浦队歌球衣都是他奠定的。 第二派斯利 第三个费根 第四个达格利什 第五个贝尼特斯 第六个克洛普
+++++++++++++++++++++++    ERROR #169   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=4
+   Highest position=2
+++++++++++++++++++++++    ERROR #170   ++++++++++++++++++++++
+   Deleted concept group #4 at Topic #167: 保持健康。不要减少睡眠，经常锻炼和戒掉所有有害的习惯，如吸烟或饮酒。健康的肉体孕育健康的精神
+++++++++++++++++++++++    ERROR #171   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #172   ++++++++++++++++++++++
+   Deleted concept group #6 at Item #168: 利物浦六贤旗上有哪些人？  香克利、[.]、费根、达格利什、贝尼特斯、克洛普
+++++++++++++++++++++++    ERROR #173   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #174   ++++++++++++++++++++++
+   Deleted concept group #6 at Item #169: 利物浦六贤旗上有哪些人？  香克利、 派斯利、[.]、达格利什、贝尼特斯、克洛普
+++++++++++++++++++++++    ERROR #175   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #176   ++++++++++++++++++++++
+   Deleted concept group #6 at Item #170: 利物浦六贤旗上有哪些人？  香克利、 派斯利、费根、达格利什、[.]、克洛普
+++++++++++++++++++++++    ERROR #177   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #178   ++++++++++++++++++++++
+   Deleted concept group #6 at Item #171: 利物浦六贤旗上有哪些人？  香克利、 派斯利、费根、达格利什、贝尼特斯、[.]
+++++++++++++++++++++++    ERROR #179   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=4
+   Highest position=2
+++++++++++++++++++++++    ERROR #180   ++++++++++++++++++++++
+   Deleted concept group #4 at Topic #172: 使用 SuperMemo 进行系统的学习是成功的必要条件，那些不打算定期学习的人不应希望该计划能弥补他们缺乏坚持的缺点。
+++++++++++++++++++++++    ERROR #181   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=4
+   Highest position=2
+++++++++++++++++++++++    ERROR #182   ++++++++++++++++++++++
+   Deleted concept group #4 at Topic #173: 使用 SuperMemo 而没有取得成功的最常见原因是缺乏规律性和毅力。事实上，不规则复习违背了 SuperMemo 方法。难怪那些缺乏规律性的人不会成功。定期使用 SuperMemo 复习是最苛刻的因素之一，需要很大的意志力和决心。
+++++++++++++++++++++++    ERROR #183   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=4
+   Highest position=2
+++++++++++++++++++++++    ERROR #184   ++++++++++++++++++++++
+   Deleted concept group #4 at Topic #174: 定期的复习对你的成功至关重要
+++++++++++++++++++++++    ERROR #185   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=4
+   Highest position=2
+++++++++++++++++++++++    ERROR #186   ++++++++++++++++++++++
+   Deleted concept group #4 at Topic #175: 良好的基础使你更容易接受新知识，为学习过程提供额外的鼓励，并使你免于对知识产生消极的第一印象。
+++++++++++++++++++++++    ERROR #187   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=4
+   Highest position=2
+++++++++++++++++++++++    ERROR #188   ++++++++++++++++++++++
+   Deleted concept group #4 at Topic #176: 适度和冷静地估计自己的需要和能力是成功的重要因素。建议初学者每天使用 SuperMemo 的时间为 5-20 分钟，高级学员每天使用 SuperMemo 的时间不超过 60-90 分钟！
+++++++++++++++++++++++    ERROR #189   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=4
+   Highest position=2
+++++++++++++++++++++++    ERROR #190   ++++++++++++++++++++++
+   Deleted concept group #4 at Topic #177: 定期使用 SuperMemo 学习，每天使用相同的时间。
+++++++++++++++++++++++    ERROR #191   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=4
+   Highest position=2
+++++++++++++++++++++++    ERROR #192   ++++++++++++++++++++++
+   Deleted concept group #4 at Topic #178: 只使用最适用的知识创建收藏。在形成你想要掌握的领域的总体蓝图之前，不要过于深入细节。贪多嚼不烂
+++++++++++++++++++++++    ERROR #193   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=4
+   Highest position=2
+++++++++++++++++++++++    ERROR #194   ++++++++++++++++++++++
+   Deleted concept group #4 at Topic #179: 在开始对你的知识系统进行大规模扩展之前，先检查一下你是否有足够的能力来制定容易记住的问答卡片，并检查一下你的脑力够不够用，以及你能花多少时间来学习。三思而后行
+++++++++++++++++++++++    ERROR #195   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=4
+   Highest position=2
+++++++++++++++++++++++    ERROR #196   ++++++++++++++++++++++
+   Deleted concept group #4 at Topic #180: 集中精神，不要停止思考。复习应该是有意识的，而不是自动的。一切烦恼都来自无知
+++++++++++++++++++++++    ERROR #197   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=4
+   Highest position=2
+++++++++++++++++++++++    ERROR #198   ++++++++++++++++++++++
+   Deleted concept group #4 at Topic #181: 如果你觉得与 SuperMemo 一起学习不愉快，那么就停止添加新的问答卡片，并更加注意清理知识系统中无用或结构不良的垃圾。
+++++++++++++++++++++++    ERROR #199   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=3
+   Highest position=2
+++++++++++++++++++++++    ERROR #200   ++++++++++++++++++++++
+   Deleted concept group #3 at Topic #182: 导入一篇文章后，通常是一天后才可以开始阅读。 在第一次阅读之后，可能是一周之后才能在复习环节看到并阅读同一篇文章。 摘抄完重要的句子后，可能要一周后才能在复习环节上看到你的摘抄卡片。 .
+++++++++++++++++++++++    ERROR #201   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=6
+   Highest position=2
+++++++++++++++++++++++    ERROR #202   ++++++++++++++++++++++
+   Deleted concept group #6 at Item #222: Title: 如何用 Anki 学数学？ Author: Michael A. Nielsen    什么才叫理解 了某些数学概念 [1]? 我们可能会天真地把这个问题看的非黑即白：最初，你完全不懂这个概念；然后，你会经历一段短暂的 "灰色时期", 在这段时间不断地学习它们；经过一些运气和你的不懈努力之后，你就从 "不理解" 转变到了 "理解" .
+++++++++++++++++++++++    ERROR #203   ++++++++++++++++++++++
+   Duplicate concept member reference
+   Reused member: Concept #2: 政治
+   Used at: Concept #229: 政治
+Verifying knowledge tree (229 elements in Contents.dat)
+Verifying the priority queue of 219 elements
+Verifying repetition schedule (Workload.dat and ElementInfo.dat)
+Verifying pending queue (Intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+Recovering registries
+Rebuilding Text registry (475 members in a 509 member file)
+Rebuilding Template registry (14 members in a 14 member file)
+Rebuilding Font registry (1 members in a 1 member file)
+Rebuilding Reference registry (28 members in a 28 member file)
+Rebuilding Style registry (0 members in a 0 member file)
+Rebuilding Script registry (0 members in a 0 member file)
+Rebuilding Program registry (0 members in a 0 member file)
+Rebuilding Ole registry (0 members in a 0 member file)
+Rebuilding Video registry (0 members in a 0 member file)
+Rebuilding Image registry (19 members in a 26 member file)
+Rebuilding Sound registry (0 members in a 0 member file)
+Rebuilding Tasklist registry (1 members in a 1 member file)
+Rebuilding Concept registry (2 members in a 2 member file)
+Rebuilding Link registry (0 members in a 0 member file)
+Registering components
+Transferring templates
+Registering references
+Registering image references
+Registration of links for 0 members in a 0 member file
+Registration of concepts for 2 members in a 2 member file
+Verifying Text registry
+Warning! Registry member not used
+   Text #11: Image reference for image #20
+Warning! Registry member not used
+   Text #34: http://i0.hdslb.com/bfs/article/a34ba3451118cc33db365583901bb41039601627.jpg@942w_473h_progressive.webp
+Warning! Registry member not used
+   Text #38: http://i0.hdslb.com/bfs/article/498cef6a24323cb5e6807ad05806161b8fe5d575.png@942w_303h_progressive.webp
+Warning! Registry member not used
+   Text #39: http://i0.hdslb.com/bfs/article/cebc541b23479ea650ade4c66ee30977e19e038c.png@942w_278h_progressive.webp
+Warning! Registry member not used
+   Text #50: 224f691dda59b0cd523982422fc714a9051ad1cb.png@942w_332h_progressive.webp
+Warning! Registry member not used
+   Text #60: You can return to the previously visited pages by using the Back button at the top of this window. You can also press Alt+Left arrow to obtain the same effect. Conversely, you ...
+Warning! Registry member not used
+   Text #150: 4adb9255ada5b97061e610b682b8636764fe50ed.png
+Warning! Registry member not used
+   Text #156: HTML: <HR SuperMemo>
+Warning! Registry member not used
+   Text #170: Image reference for image #13
+Warning! Registry member not used
+   Text #179: http://i0.hdslb.com/bfs/article/e211d9917e9229d187c240aaa4f676ef33cd9cf8.gif
+Warning! Registry member not used
+   Text #184: http://i0.hdslb.com/bfs/article/02db465212d3c374a43c60fa2625cc1caeaab796.png
+Warning! Registry member not used
+   Text #194: Image reference for image #5
+Warning! Registry member not used
+   Text #202: 6f2581cd89872997eb96e1847561c583e7965b92.png@942w_255h_progressive.webp
+Warning! Registry member not used
+   Text #210: Image reference for image #4
+Warning! Registry member not used
+   Text #213: Image reference for image #18
+Warning! Registry member not used
+   Text #214: Imported on Aug 19, 2021, 16:31:19
+Warning! Registry member not used
+   Text #216: a34ba3451118cc33db365583901bb41039601627.jpg@942w_473h_progressive.webp
+Warning! Registry member not used
+   Text #221: 498cef6a24323cb5e6807ad05806161b8fe5d575.png@942w_303h_progressive.webp
+Warning! Registry member not used
+   Text #222: http://i0.hdslb.com/bfs/article/415abd299b2beac9068a19f2094dfeaa4ea0190f.png@942w_272h_progressive.webp
+Warning! Registry member not used
+   Text #226: http://i0.hdslb.com/bfs/article/4adb9255ada5b97061e610b682b8636764fe50ed.png
+Warning! Registry member not used
+   Text #227: Image reference for image #14
+Warning! Registry member not used
+   Text #228: http://i0.hdslb.com/bfs/article/6f2581cd89872997eb96e1847561c583e7965b92.png@942w_255h_progressive.webp
+Warning! Registry member not used
+   Text #229: Image reference for image #15
+Warning! Registry member not used
+   Text #230: cebc541b23479ea650ade4c66ee30977e19e038c.png@942w_278h_progressive.webp
+Warning! Registry member not used
+   Text #231: http://i0.hdslb.com/bfs/article/224f691dda59b0cd523982422fc714a9051ad1cb.png@942w_332h_progressive.webp
+Warning! Registry member not used
+   Text #232: 415abd299b2beac9068a19f2094dfeaa4ea0190f.png@942w_272h_progressive.webp
+Warning! Registry member not used
+   Text #233: Image reference for image #23
+Warning! Registry member not used
+   Text #234: e211d9917e9229d187c240aaa4f676ef33cd9cf8.gif
+Warning! Registry member not used
+   Text #235: Image reference for image #21
+Warning! Registry member not used
+   Text #236: 02db465212d3c374a43c60fa2625cc1caeaab796.png
+Warning! Registry member not used
+   Text #245: HTML: <P>&nbsp;</P>
+31 unused member(s) in the Text registry
+Verifying Font registry
+Usership count difference at Font #1: MCT font
+Element List=0 users
+Size=6
+Usership count difference at Font #1: MCT font
+Element List=0 users
+Size=6
+Verifying Reference registry
+Warning! Registry member not used
+   Reference #2: cebc541b23479ea650ade4c66ee30977e19e038c.png@942w_278h_progressive.webp
+Warning! Registry member not used
+   Reference #6: 6f2581cd89872997eb96e1847561c583e7965b92.png@942w_255h_progressive.webp
+Warning! Registry member not used
+   Reference #9: 4adb9255ada5b97061e610b682b8636764fe50ed.png
+Warning! Registry member not used
+   Reference #11: a34ba3451118cc33db365583901bb41039601627.jpg@942w_473h_progressive.webp
+Warning! Registry member not used
+   Reference #16: 498cef6a24323cb5e6807ad05806161b8fe5d575.png@942w_303h_progressive.webp
+Warning! Registry member not used
+   Reference #17: 224f691dda59b0cd523982422fc714a9051ad1cb.png@942w_332h_progressive.webp
+Warning! Registry member not used
+   Reference #18: 415abd299b2beac9068a19f2094dfeaa4ea0190f.png@942w_272h_progressive.webp
+Warning! Registry member not used
+   Reference #19: e211d9917e9229d187c240aaa4f676ef33cd9cf8.gif
+Warning! Registry member not used
+   Reference #20: 02db465212d3c374a43c60fa2625cc1caeaab796.png
+9 unused member(s) in the Reference registry
+Verifying Ole registry
+Verifying Image registry
+Warning! Registry member not used
+   Image #1: Back (icon)
+Warning! Registry member not used
+   Image #2: Add a new article (icon)
+Warning! Registry member not used
+   Image #4: a34ba3451118cc33db365583901bb41039601627.jpg@942w_473h_progressive.webp
+Warning! Registry member not used
+   Image #5: 02db465212d3c374a43c60fa2625cc1caeaab796.png
+Warning! Registry member not used
+   Image #6: Add a new article (learnbar)
+Warning! Registry member not used
+   Image #8: Extract (learnbar)
+Warning! Registry member not used
+   Image #9: Extract (icon)
+Warning! Registry member not used
+   Image #10: Cloze (learnbar)
+Warning! Registry member not used
+   Image #11: Cloze (icon)
+Warning! Registry member not used
+   Image #12: Back (navigation bar)
+Warning! Registry member not used
+   Image #13: 498cef6a24323cb5e6807ad05806161b8fe5d575.png@942w_303h_progressive.webp
+Warning! Registry member not used
+   Image #14: 4adb9255ada5b97061e610b682b8636764fe50ed.png
+Warning! Registry member not used
+   Image #15: 6f2581cd89872997eb96e1847561c583e7965b92.png@942w_255h_progressive.webp
+Warning! Registry member not used
+   Image #18: cebc541b23479ea650ade4c66ee30977e19e038c.png@942w_278h_progressive.webp
+Warning! Registry member not used
+   Image #20: 224f691dda59b0cd523982422fc714a9051ad1cb.png@942w_332h_progressive.webp
+Warning! Registry member not used
+   Image #21: e211d9917e9229d187c240aaa4f676ef33cd9cf8.gif
+Warning! Registry member not used
+   Image #23: 415abd299b2beac9068a19f2094dfeaa4ea0190f.png@942w_272h_progressive.webp
+17 unused member(s) in the Image registry
+Verifying Sound registry
+Verifying Video registry
+Verifying Style registry
+Verifying Script registry
+Verifying Program registry
+Verifying Template registry
+Verifying Tasklist registry
+Warning! Registry member not used
+   Tasklist #1: Tasks
+1 unused member(s) in the Tasklist registry
+Verifying Concept registry
+Verifying Link registry
+Deleting directory: e:\onedrive\4-个人资料\abc of supermemo 18 (copy) (copy) (copy)\registry\Template_users
+++++++++++++++++++++++    ERROR #204   ++++++++++++++++++++++
+   Cannot copy e:\onedrive\4-个人资料\abc of supermemo 18 (copy) (copy) (copy)\registry\RConcept.rtx to e:\onedrive\4-个人资料\abc of supermemo 18 (copy) (copy) (copy)\registry\Concept.rtx
+Range check error
+++++++++++++++++++++++    ERROR #205   ++++++++++++++++++++++
+   Cannot copy e:\onedrive\4-个人资料\abc of supermemo 18 (copy) (copy) (copy)\registry\RConcept.mem to e:\onedrive\4-个人资料\abc of supermemo 18 (copy) (copy) (copy)\registry\Concept.mem
+Range check error
+++++++++++++++++++++++    ERROR #206   ++++++++++++++++++++++
+   Cannot copy e:\onedrive\4-个人资料\abc of supermemo 18 (copy) (copy) (copy)\registry\RConcept.lst to e:\onedrive\4-个人资料\abc of supermemo 18 (copy) (copy) (copy)\registry\Concept.lst
+Range check error
+Deleting temporary folders
+The size of remaining temporary files is 1.611 MB
+   These files can be deleted with File : Tools : Garbage
+Removing empty collection directories
+++++++++++++++++++++++    ERROR #207   ++++++++++++++++++++++
+   Wrong concept at Topic #23: 第一章马克思主义是关于无产阶级和人类解放的科学
+++++++++++++++++++++++    ERROR #208   ++++++++++++++++++++++
+   Wrong concept at Topic #31: 游戏
+++++++++++++++++++++++    ERROR #209   ++++++++++++++++++++++
+   Wrong concept at Topic #47: 政治
+++++++++++++++++++++++    ERROR #210   ++++++++++++++++++++++
+   Wrong concept at Topic #65: 认知
+++++++++++++++++++++++    ERROR #211   ++++++++++++++++++++++
+   Wrong concept at Topic #134: 英语
+++++++++++++++++++++++    ERROR #212   ++++++++++++++++++++++
+   Adding new concept member in place of a duplicate
+   New member: Concept #3: Duplicate of "政治"
+   At element: Concept #229: 政治
+++++++++++++++++++++++    ERROR #213   ++++++++++++++++++++++
+   Mis-matched concept data at Concept #2: 
+
+Process completed at 11:08:44 PM in 00:00:02 sec (Friday, August 20, 2021)
+
+213 ERRORS (Checking the integrity of the collection)
+
+____________________________________________________________
