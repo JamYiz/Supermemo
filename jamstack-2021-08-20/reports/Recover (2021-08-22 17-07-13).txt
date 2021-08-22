@@ -1,0 +1,593 @@
+SuperMemo Report
+   Activity: Checking the integrity of the collection
+   Collection: e:\onedrive\应用\supermemo\jamstack-2021-08-20
+   Date: 2021年8月22日, 17:07:13
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Checking 233 element records (ElementInfo.dat)
+Verifying integrity of element data (233 elements in ElementInfo.dat)
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #2   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #4: 阅读文章
+++++++++++++++++++++++    ERROR #3   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #4   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #5: [.]：为当前卡片设置下一次查看的时间（一般不用，除非你觉得这个卡片很重要或者很不重要
+++++++++++++++++++++++    ERROR #5   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #6   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #8: 处理难以理解的文章 : 解决增量阅读中复杂性
+++++++++++++++++++++++    ERROR #7   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #8   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #9: [.]：忽略该卡片，SuperMemo 将不会再安排你复习该卡
+++++++++++++++++++++++    ERROR #9   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #10   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #10: Ctrl + Shift + R：为当前卡片设置[.]一般不用，除非你觉得这个卡片很重要或者很不重要
+++++++++++++++++++++++    ERROR #11   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #12   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #13: E（或点击文本）：进入编辑模式
+++++++++++++++++++++++    ERROR #13   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #14   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #15: [.]进入编辑模式
+++++++++++++++++++++++    ERROR #15   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #16   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #16: 对理解困难的文章估算所需的[.]间隔，并且使用 Ctrl+J 设置间隔。
+++++++++++++++++++++++    ERROR #17   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #18   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #17: 渐进阅读基本概念与操作介绍 : 设置优先级
+++++++++++++++++++++++    ERROR #19   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #20   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #18: 别忘了有些文本并不适合增量阅读（例如，科学实验的描述，数学推导，源代码中的编程示例，案例研究等）。在这种情况下，请使用传统的全面分析方法，汇总[.]，并使用 SuperMemo 跟踪自己的总结。
+++++++++++++++++++++++    ERROR #21   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #22   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #20: Ctrl + ↑：[.]，通常是你摘录出来的摘录卡片和问答卡片的原文。
+++++++++++++++++++++++    ERROR #23   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #24   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #21: 别忘了有些文本并不适合增量阅读（例如，科学实验的描述，数学推导，源代码中的编程示例，案例研究等）。在这种情况下，请使用传统的全面分析方法，汇总分析结果，并使用 SuperMemo 跟踪自己的[.]。
+++++++++++++++++++++++    ERROR #25   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #26   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #22: 如果该片段过于复杂且没有阅读欲望（例如，由于语法，措辞，表述，逻辑等方面的错误），请删除该文章，并寻找替代材料
+++++++++++++++++++++++    ERROR #27   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #28   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #24: [.]（在退出编辑模式情况下）：完成阅读并处理下一张待办卡片
+++++++++++++++++++++++    ERROR #29   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #30   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #26: 如果我们需要更多的知识来理解片段，请推迟文章（请使用快捷键 [.] 重新安排时间）
+++++++++++++++++++++++    ERROR #31   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #32   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #28: 当我们感觉自己能理解困难的文章时，估算所需的时间间隔，并且使用 Ctrl+J 设置间隔。如果文章包含高优先级知识，应安排尽早复习。
+++++++++++++++++++++++    ERROR #33   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #34   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #29: Enter（在退出编辑模式情况下）：完成阅读并处理下一张待办卡片
+++++++++++++++++++++++    ERROR #35   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #36   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #33: Ctrl + Shift + R：为当前卡片设置下一次查看的时间（一般不用，除非你觉得这个卡片很重要或者很不重要
+++++++++++++++++++++++    ERROR #37   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #38   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #34: 渐进阅读基本概念与操作介绍
+++++++++++++++++++++++    ERROR #39   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #40   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #35: Ctrl + ↑：查看上一级，通常是你摘录出来的摘录卡片和问答卡片的原文。
+++++++++++++++++++++++    ERROR #41   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #42   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #36: Ctrl + Shift + M：为当前卡片[.]
+++++++++++++++++++++++    ERROR #43   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #44   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #37: Alt + ←：查看[.]，如果你做了摘录或挖空，上一张卡片就是你刚刚摘录或挖空的卡片。
+++++++++++++++++++++++    ERROR #45   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #46   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #39: Ctrl + D：（动作）忽略该卡片，SuperMemo 将不会再安排你复习该卡
+++++++++++++++++++++++    ERROR #47   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #48   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #40: [.]查看上一级，通常是你摘录出来的摘录卡片和问答卡片的原文。
+++++++++++++++++++++++    ERROR #49   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #50   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #44: Ctrl + F7：设置阅读点，下一次遇到这篇文章时，SuperMemo 会自动跳到阅读点（默认的阅读点是你最后一个进行摘录的位置）
+++++++++++++++++++++++    ERROR #51   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #52   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #46: 如果我们需要更多的知识来理解片段，请推迟文章（请使用快捷键 Ctrl+J [.]）
+++++++++++++++++++++++    ERROR #53   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #54   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #48: [.]：设置阅读点，下一次遇到这篇文章时，SuperMemo 会自动跳到阅读点
+++++++++++++++++++++++    ERROR #55   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #56   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #49: Ctrl + Shift + M：为当前卡片选择模板
+++++++++++++++++++++++    ERROR #57   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #58   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #50: E（或点击文本）：[.]
+++++++++++++++++++++++    ERROR #59   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #60   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #51: 如果决定使用 Ctrl+J 推迟文章，请先确定需要哪些新知识，然后再返回困难的片段。
+++++++++++++++++++++++    ERROR #61   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #62   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #53: Title: 渐进阅读基本概念与操作介绍 : 设置优先级 新增卡片的优先级是由对应的概念组默认设置的。当然，我们可以做出自己的决定，设置一切卡片的优先级。  Alt + P，呼出优先级设置菜单：  拖动滑块即可调整优先级。左边是[.]。
+++++++++++++++++++++++    ERROR #63   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #64   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #54: 当我们感觉自己能理解困难的文章时，估算所需的时间间隔，并且使用 Ctrl+J 设置间隔。如果文章包含高优先级知识，应安排尽早[.]。
+++++++++++++++++++++++    ERROR #65   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #66   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #55: 如果决定使用 Ctrl+J 推迟文章，请先确定需要哪些[.]，然后再返回困难的片段。
+++++++++++++++++++++++    ERROR #67   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #68   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #56: Ctrl + Shift + 1：将选中内容统一格式。
+++++++++++++++++++++++    ERROR #69   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #70   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #57: 处理难以理解的文章
+++++++++++++++++++++++    ERROR #71   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #72   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #58: Ctrl + Shift + Enter：忽略并删除卡片内容
+++++++++++++++++++++++    ERROR #73   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #74   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #61: 当我们感觉自己能理解困难的文章时，估算所需的时间间隔，并且使用 Ctrl+J 设置间隔。如果文章包含[.]，应安排尽早复习。
+++++++++++++++++++++++    ERROR #75   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #76   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #62: Title: 处理难以理解的文章 : 解决增量阅读中复杂性： 从开头开始阅读文章。找到[.]后，对其进行分析，并诊断出理解问题的原因 如果本文的其余部分不太依赖困难片段，请将其摘录出来并继续阅读
+++++++++++++++++++++++    ERROR #77   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #78   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #63: Alt + ←：查看上一张卡片。
+++++++++++++++++++++++    ERROR #79   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #80   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #64: 如果该片段过于复杂且没有阅读欲望（例如，由于语法，措辞，表述，逻辑等方面的错误），请[.]该文章，并寻找替代材料
+++++++++++++++++++++++    ERROR #81   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #82   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #68: Title: 渐进阅读基本概念与操作介绍 : 设置优先级 新增卡片的优先级是由对应的概念组默认设置的。当然，我们可以做出自己的决定，设置一切卡片的优先级。 [.]，呼出优先级设置菜单：  拖动滑块即可调整优先级。左边是高优先。
+++++++++++++++++++++++    ERROR #83   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #84   ++++++++++++++++++++++
+   Deleted concept member at Concept #69
+++++++++++++++++++++++    ERROR #85   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #86   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #71: Ctrl + Shift + 1：将选中内容[.]。例如，一段文字为 123456，选中 1 到 6，按下组合键，文字将统一格式，变成 123456。
+++++++++++++++++++++++    ERROR #87   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #88   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #72: 如果决定使用 Ctrl+J 推迟文章，请先确定需要哪些新知识，然后再返回困难的片段。 列出字典条目、百科全书文章、网络上需要进一步处理的文章。将搜索的材料安排为单独的摘录卡片，或尝试立即搜索新知识 当我们感觉自己能理解困难的文章时，估算所需的时间间隔，并且使用 Ctrl+J 设置间隔。如果文章包含高优先级知识，那么最好还是谨慎一点并安排尽早复习。
+++++++++++++++++++++++    ERROR #89   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #90   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #73: 如果我们需要更多的知识来理解片段，请推迟文章（请使用快捷键 Ctrl+J 重新安排时间）
+++++++++++++++++++++++    ERROR #91   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #92   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #74: [.]查看上一张卡片，如果你做了摘录或挖空，上一张卡片就是你刚刚摘录或挖空的卡片。
+++++++++++++++++++++++    ERROR #93   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #94   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #76: 常用快捷键 Ctrl + ↑：查看上一级，通常是你摘录出来的摘录卡片和问答卡片的原文。  Alt + ←：查看上一张卡片，如果你做了摘录或挖空，上一张卡片就是你刚刚摘录或挖空的卡片。  Ctrl + Shift + M：为当前卡片选择模板  Ctrl + Shift + .
+++++++++++++++++++++++    ERROR #95   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #96   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #77: [.]：忽略并删除卡片内容
+++++++++++++++++++++++    ERROR #97   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #98   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #78: [.]：为当前卡片选择模板
+++++++++++++++++++++++    ERROR #99   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #100   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #81: [.]：将选中内容统一格式。例如，一段文字为 123456，选中 1 到 6，按下组合键，文字将统一格式，变成 123456。
+++++++++++++++++++++++    ERROR #101   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #102   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #82: 别忘了有些文本并不适合增量阅读（例如，科学实验的描述，数学推导，源代码中的编程示例，案例研究等）。在这种情况下，请使用传统的全面分析方法，汇总分析结果，并使用 SuperMemo 跟踪自己的总结。
+++++++++++++++++++++++    ERROR #103   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #104   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #83: 如果存在本文的其余部分不太依赖的[.]，请将其摘录出来并继续阅读
+++++++++++++++++++++++    ERROR #105   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #106   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #102: Enter（在退出编辑模式情况下）：完成阅读并处理[.]待办卡片
+++++++++++++++++++++++    ERROR #107   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #108   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #122: Enter（在退出编辑模式情况下）：完成[.]并处理下一张待办卡片
+++++++++++++++++++++++    ERROR #109   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #110   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #123: Ctrl + D：（动作）[.]该卡片，SuperMemo 将不会再安排你复习该卡
+++++++++++++++++++++++    ERROR #111   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #112   ++++++++++++++++++++++
+   Deleted concept group #2 at Topic #163: 如果存在本文的其余部分不太依赖的困难片段，请将其摘录出来并继续阅读
+++++++++++++++++++++++    ERROR #113   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #114   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #164: 如果存在本文的其余部分不太依赖的困难片段，请将其[.]出来并继续阅读
+++++++++++++++++++++++    ERROR #115   ++++++++++++++++++++++
+   Concept registry error!
+   Accessing registry member that does not exist
+   Position=2
+   Highest position=1
+++++++++++++++++++++++    ERROR #116   ++++++++++++++++++++++
+   Deleted concept group #2 at Item #165: Title: 处理难以理解的文章 : 解决增量阅读中复杂性： 找到困难片段后，对其进行分析，并诊断出问题的[.]如果本文的其余部分不太依赖困难片段，请将其摘录出来并继续阅读
+Verifying knowledge tree (233 elements in Contents.dat)
+Verifying the priority queue of 221 elements
+Verifying repetition schedule (Workload.dat and ElementInfo.dat)
+Verifying pending queue (Intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+Recovering registries
+Rebuilding Text registry (485 members in a 543 member file)
+Rebuilding Template registry (14 members in a 14 member file)
+Rebuilding Font registry (1 members in a 1 member file)
+Rebuilding Reference registry (29 members in a 37 member file)
+Rebuilding Style registry (0 members in a 0 member file)
+Rebuilding Script registry (0 members in a 0 member file)
+Rebuilding Program registry (0 members in a 0 member file)
+Rebuilding Ole registry (0 members in a 0 member file)
+Rebuilding Video registry (0 members in a 0 member file)
+Rebuilding Image registry (19 members in a 29 member file)
+Rebuilding Sound registry (0 members in a 0 member file)
+Rebuilding Tasklist registry (1 members in a 1 member file)
+Rebuilding Concept registry (1 members in a 1 member file)
+Rebuilding Link registry (0 members in a 0 member file)
+Registering components
+Transferring templates
+Registering references
+Registering image references
+Registration of links for 0 members in a 0 member file
+Registration of concepts for 1 members in a 1 member file
+Verifying Text registry
+Warning! Registry member not used
+   Text #11: Image reference for image #20
+Warning! Registry member not used
+   Text #34: http://i0.hdslb.com/bfs/article/a34ba3451118cc33db365583901bb41039601627.jpg@942w_473h_progressive.webp
+Warning! Registry member not used
+   Text #38: http://i0.hdslb.com/bfs/article/498cef6a24323cb5e6807ad05806161b8fe5d575.png@942w_303h_progressive.webp
+Warning! Registry member not used
+   Text #39: http://i0.hdslb.com/bfs/article/cebc541b23479ea650ade4c66ee30977e19e038c.png@942w_278h_progressive.webp
+Warning! Registry member not used
+   Text #50: 224f691dda59b0cd523982422fc714a9051ad1cb.png@942w_332h_progressive.webp
+Warning! Registry member not used
+   Text #60: You can return to the previously visited pages by using the Back button at the top of this window. You can also press Alt+Left arrow to obtain the same effect. Conversely, you ...
+Warning! Registry member not used
+   Text #150: 4adb9255ada5b97061e610b682b8636764fe50ed.png
+Warning! Registry member not used
+   Text #156: HTML: <HR SuperMemo>
+Warning! Registry member not used
+   Text #170: Image reference for image #13
+Warning! Registry member not used
+   Text #179: http://i0.hdslb.com/bfs/article/e211d9917e9229d187c240aaa4f676ef33cd9cf8.gif
+Warning! Registry member not used
+   Text #184: http://i0.hdslb.com/bfs/article/02db465212d3c374a43c60fa2625cc1caeaab796.png
+Warning! Registry member not used
+   Text #194: Image reference for image #5
+Warning! Registry member not used
+   Text #202: 6f2581cd89872997eb96e1847561c583e7965b92.png@942w_255h_progressive.webp
+Warning! Registry member not used
+   Text #210: Image reference for image #4
+Warning! Registry member not used
+   Text #213: Image reference for image #18
+Warning! Registry member not used
+   Text #214: Imported on Aug 19, 2021, 16:31:19
+Warning! Registry member not used
+   Text #216: a34ba3451118cc33db365583901bb41039601627.jpg@942w_473h_progressive.webp
+Warning! Registry member not used
+   Text #221: 498cef6a24323cb5e6807ad05806161b8fe5d575.png@942w_303h_progressive.webp
+Warning! Registry member not used
+   Text #222: http://i0.hdslb.com/bfs/article/415abd299b2beac9068a19f2094dfeaa4ea0190f.png@942w_272h_progressive.webp
+Warning! Registry member not used
+   Text #226: http://i0.hdslb.com/bfs/article/4adb9255ada5b97061e610b682b8636764fe50ed.png
+Warning! Registry member not used
+   Text #227: Image reference for image #14
+Warning! Registry member not used
+   Text #228: http://i0.hdslb.com/bfs/article/6f2581cd89872997eb96e1847561c583e7965b92.png@942w_255h_progressive.webp
+Warning! Registry member not used
+   Text #229: Image reference for image #15
+Warning! Registry member not used
+   Text #230: cebc541b23479ea650ade4c66ee30977e19e038c.png@942w_278h_progressive.webp
+Warning! Registry member not used
+   Text #231: http://i0.hdslb.com/bfs/article/224f691dda59b0cd523982422fc714a9051ad1cb.png@942w_332h_progressive.webp
+Warning! Registry member not used
+   Text #232: 415abd299b2beac9068a19f2094dfeaa4ea0190f.png@942w_272h_progressive.webp
+Warning! Registry member not used
+   Text #233: Image reference for image #23
+Warning! Registry member not used
+   Text #234: e211d9917e9229d187c240aaa4f676ef33cd9cf8.gif
+Warning! Registry member not used
+   Text #235: Image reference for image #21
+Warning! Registry member not used
+   Text #236: 02db465212d3c374a43c60fa2625cc1caeaab796.png
+Warning! Registry member not used
+   Text #245: HTML: <P>&nbsp;</P>
+31 unused member(s) in the Text registry
+Verifying Font registry
+Usership count difference at Font #1: MCT font
+Element List=0 users
+Size=6
+Usership count difference at Font #1: MCT font
+Element List=0 users
+Size=6
+Verifying Reference registry
+Warning! Registry member not used
+   Reference #2: cebc541b23479ea650ade4c66ee30977e19e038c.png@942w_278h_progressive.webp
+Warning! Registry member not used
+   Reference #6: 6f2581cd89872997eb96e1847561c583e7965b92.png@942w_255h_progressive.webp
+Warning! Registry member not used
+   Reference #9: 4adb9255ada5b97061e610b682b8636764fe50ed.png
+Warning! Registry member not used
+   Reference #11: a34ba3451118cc33db365583901bb41039601627.jpg@942w_473h_progressive.webp
+Warning! Registry member not used
+   Reference #16: 498cef6a24323cb5e6807ad05806161b8fe5d575.png@942w_303h_progressive.webp
+Warning! Registry member not used
+   Reference #17: 224f691dda59b0cd523982422fc714a9051ad1cb.png@942w_332h_progressive.webp
+Warning! Registry member not used
+   Reference #18: 415abd299b2beac9068a19f2094dfeaa4ea0190f.png@942w_272h_progressive.webp
+Warning! Registry member not used
+   Reference #19: e211d9917e9229d187c240aaa4f676ef33cd9cf8.gif
+Warning! Registry member not used
+   Reference #20: 02db465212d3c374a43c60fa2625cc1caeaab796.png
+9 unused member(s) in the Reference registry
+Verifying Ole registry
+Verifying Image registry
+Warning! Registry member not used
+   Image #1: Back (icon)
+Warning! Registry member not used
+   Image #2: Add a new article (icon)
+Warning! Registry member not used
+   Image #4: a34ba3451118cc33db365583901bb41039601627.jpg@942w_473h_progressive.webp
+Warning! Registry member not used
+   Image #5: 02db465212d3c374a43c60fa2625cc1caeaab796.png
+Warning! Registry member not used
+   Image #6: Add a new article (learnbar)
+Warning! Registry member not used
+   Image #8: Extract (learnbar)
+Warning! Registry member not used
+   Image #9: Extract (icon)
+Warning! Registry member not used
+   Image #10: Cloze (learnbar)
+Warning! Registry member not used
+   Image #11: Cloze (icon)
+Warning! Registry member not used
+   Image #12: Back (navigation bar)
+Warning! Registry member not used
+   Image #13: 498cef6a24323cb5e6807ad05806161b8fe5d575.png@942w_303h_progressive.webp
+Warning! Registry member not used
+   Image #14: 4adb9255ada5b97061e610b682b8636764fe50ed.png
+Warning! Registry member not used
+   Image #15: 6f2581cd89872997eb96e1847561c583e7965b92.png@942w_255h_progressive.webp
+Warning! Registry member not used
+   Image #18: cebc541b23479ea650ade4c66ee30977e19e038c.png@942w_278h_progressive.webp
+Warning! Registry member not used
+   Image #20: 224f691dda59b0cd523982422fc714a9051ad1cb.png@942w_332h_progressive.webp
+Warning! Registry member not used
+   Image #21: e211d9917e9229d187c240aaa4f676ef33cd9cf8.gif
+Warning! Registry member not used
+   Image #23: 415abd299b2beac9068a19f2094dfeaa4ea0190f.png@942w_272h_progressive.webp
+17 unused member(s) in the Image registry
+Verifying Sound registry
+Verifying Video registry
+Verifying Style registry
+Verifying Script registry
+Verifying Program registry
+Verifying Template registry
+Verifying Tasklist registry
+Warning! Registry member not used
+   Tasklist #1: Tasks
+1 unused member(s) in the Tasklist registry
+Verifying Concept registry
+Verifying Link registry
+Deleting directory: e:\onedrive\应用\supermemo\jamstack-2021-08-20\registry\Template_users
+Deleting temporary folders
+The size of remaining temporary files is 1.661 MB
+   These files can be deleted with File : Tools : Garbage
+Removing empty collection directories
+++++++++++++++++++++++    ERROR #117   ++++++++++++++++++++++
+   Wrong concept at Topic #69: 体育
+
+Process completed at 17:07:15 in 00:00:01 sec (2021年8月22日)
+
+117 ERRORS (Checking the integrity of the collection)
+
+____________________________________________________________
